@@ -4,9 +4,6 @@ On-device background removal for React Native. Pick a photo, get a transparent c
 
 Inference runs locally through [ExecuTorch](https://github.com/software-mansion/react-native-executorch), and compositing is done on the GPU with [Skia](https://github.com/Shopify/react-native-skia). After the model is fetched on first launch, the app makes no network calls at all.
 
-## Demo
-
-> Drop `bg-remover-demo.mp4` here — drag the file into the GitHub README editor and it will upload and embed automatically.
 
 ## How it works
 
